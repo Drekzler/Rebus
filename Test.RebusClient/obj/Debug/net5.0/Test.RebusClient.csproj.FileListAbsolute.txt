@@ -1,0 +1,17 @@
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\bin\Debug\net5.0\Test.RebusClient.deps.json
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\bin\Debug\net5.0\Test.RebusClient.dll
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\bin\Debug\net5.0\ref\Test.RebusClient.dll
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\bin\Debug\net5.0\Test.RebusClient.pdb
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\Test.RebusClient.csproj.AssemblyReference.cache
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\Test.RebusClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\Test.RebusClient.AssemblyInfoInputs.cache
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\Test.RebusClient.AssemblyInfo.cs
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\Test.RebusClient.csproj.CoreCompileInputs.cache
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\Test.RebusClient.dll
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\ref\Test.RebusClient.dll
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\Test.RebusClient.pdb
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\bin\Debug\net5.0\ClientRepository.dll
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\bin\Debug\net5.0\ClientRepository.pdb
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\obj\Debug\net5.0\Test.RebusClient.csproj.CopyComplete
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\bin\Debug\net5.0\ServerRepository.dll
+C:\Users\jonsi\source\repos\Rebus\Test.RebusClient\bin\Debug\net5.0\ServerRepository.pdb

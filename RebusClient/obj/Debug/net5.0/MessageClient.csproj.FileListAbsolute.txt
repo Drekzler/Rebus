@@ -1,0 +1,5 @@
+C:\Users\jonsi\source\repos\Rebus\RebusClient\obj\Debug\net5.0\MessageClient.csproj.AssemblyReference.cache
+C:\Users\jonsi\source\repos\Rebus\RebusClient\obj\Debug\net5.0\MessageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonsi\source\repos\Rebus\RebusClient\obj\Debug\net5.0\MessageClient.AssemblyInfoInputs.cache
+C:\Users\jonsi\source\repos\Rebus\RebusClient\obj\Debug\net5.0\MessageClient.AssemblyInfo.cs
+C:\Users\jonsi\source\repos\Rebus\RebusClient\obj\Debug\net5.0\MessageClient.csproj.CoreCompileInputs.cache

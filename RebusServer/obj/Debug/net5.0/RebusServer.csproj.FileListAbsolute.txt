@@ -1,0 +1,12 @@
+C:\Users\jonsi\source\repos\Rebus\RebusServer\bin\Debug\net5.0\RebusServer.deps.json
+C:\Users\jonsi\source\repos\Rebus\RebusServer\bin\Debug\net5.0\RebusServer.dll
+C:\Users\jonsi\source\repos\Rebus\RebusServer\bin\Debug\net5.0\ref\RebusServer.dll
+C:\Users\jonsi\source\repos\Rebus\RebusServer\bin\Debug\net5.0\RebusServer.pdb
+C:\Users\jonsi\source\repos\Rebus\RebusServer\obj\Debug\net5.0\RebusServer.csproj.AssemblyReference.cache
+C:\Users\jonsi\source\repos\Rebus\RebusServer\obj\Debug\net5.0\RebusServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonsi\source\repos\Rebus\RebusServer\obj\Debug\net5.0\RebusServer.AssemblyInfoInputs.cache
+C:\Users\jonsi\source\repos\Rebus\RebusServer\obj\Debug\net5.0\RebusServer.AssemblyInfo.cs
+C:\Users\jonsi\source\repos\Rebus\RebusServer\obj\Debug\net5.0\RebusServer.csproj.CoreCompileInputs.cache
+C:\Users\jonsi\source\repos\Rebus\RebusServer\obj\Debug\net5.0\RebusServer.dll
+C:\Users\jonsi\source\repos\Rebus\RebusServer\obj\Debug\net5.0\ref\RebusServer.dll
+C:\Users\jonsi\source\repos\Rebus\RebusServer\obj\Debug\net5.0\RebusServer.pdb

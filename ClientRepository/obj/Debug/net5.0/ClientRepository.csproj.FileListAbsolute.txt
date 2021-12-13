@@ -1,0 +1,15 @@
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\bin\Debug\net5.0\ClientRepository.deps.json
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\bin\Debug\net5.0\ClientRepository.runtimeconfig.json
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\bin\Debug\net5.0\ClientRepository.runtimeconfig.dev.json
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\bin\Debug\net5.0\ClientRepository.dll
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\bin\Debug\net5.0\ref\ClientRepository.dll
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\bin\Debug\net5.0\ClientRepository.pdb
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ClientRepository.csproj.AssemblyReference.cache
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ClientRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ClientRepository.AssemblyInfoInputs.cache
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ClientRepository.AssemblyInfo.cs
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ClientRepository.csproj.CoreCompileInputs.cache
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ClientRepository.dll
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ref\ClientRepository.dll
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ClientRepository.pdb
+C:\Users\jonsi\source\repos\Rebus\ClientRepository\obj\Debug\net5.0\ClientRepository.genruntimeconfig.cache
